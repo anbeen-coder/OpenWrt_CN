@@ -13,8 +13,6 @@
 * .qcow2 ：虚拟机 PVE 使用
 * .vdi ：虚拟机 VirtualBox 使用
 * .vhdx ：虚拟机 Hyper-V 使用    
-* .tar：容器 Docker、LXC 使用
-* IPK.zip压缩文件是随固件一起提供的ipk，包括未集成到固件里的一些例如dockerman，仅适用于同目录下的固件，其他人编译的固件不保证可用!               
-
+* .tar：容器 Docker、LXC 使用         
 
 [返回主页](../README.md)        
