@@ -24,7 +24,7 @@
 * [天灵的频道](https://t.me/nanopi_r2s)
 
 ## eSir专区        
-* [eSird的高大全、佛跳墙](https://t.me/esirplayground)     
+* [eSir的高大全、佛跳墙版本](https://t.me/esirplayground)     
 
 ## 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
