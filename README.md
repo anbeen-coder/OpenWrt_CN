@@ -9,22 +9,22 @@
 
 ### 编译
 * [小白编译入门](./DIY/fishtool.md)           
-* [OpenWrt_demo_x64](https://t.me/openwrt_demo)（仅作为基础编译示例，不建议需求广泛的用户使用）   
+* [OpenWrt_demo_x64](https://t.me/openwrt_demo)（伸手党开箱即用，仅支持x64架构，本博客主编译不定期更新）   
 
 ### 开发   
 * [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
 
 ## Lean专区        
-* [Lean的官方发布](https://github.com/coolsnowwolf/lede/releases)
+* [Lean的发布](https://github.com/coolsnowwolf/lede/releases)
 
 ## ImmortalWrt专区      
 * [ImmortalWrt](./release/ImmortalWrtSource.md)
                  
 ## 天灵专区                 
-* [天灵的个人频道](https://t.me/nanopi_r2s) (AX6、QSDK版...) 
+* [天灵的频道](https://t.me/nanopi_r2s)
 
 ## eSir专区        
-* [eSir的网盘](https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh) （高大全、佛跳墙...）        
+* [eSird的高大全、佛跳墙](https://t.me/esirplayground)     
 
 ## 固件全新安装升级、不保留配置上传升级相关
 * [不保留配置上传升级固件](./tips/Upgrade.md)     
