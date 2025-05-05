@@ -9,7 +9,7 @@
 
 ### 编译
 * [小白编译入门](./DIY/fishtool.md)           
-* [OpenWrt_demo_x64](https://t.me/openwrt_demo)（伸手党开箱即用，仅支持x64架构，本博客主编译不定期更新）   
+* [OpenWrt_demo](https://t.me/openwrt_demo)（伸手党开箱即用，仅支持x64架构，本博客主编译不定期更新）   
 
 ### 开发   
 * [成神之路](https://forgotfun.org/2018/04/openwrt-training-2018.html) （佐大OpenWrt开发专业培训班）           
