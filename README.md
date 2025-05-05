@@ -94,6 +94,9 @@ touch /etc/config/passwall_show
 echo 0xDEADBEEF > /etc/config/google_fu_mode
 ```    
 
+### openwrt-nikki相关
+* [这个UP主对Nikki说得很详细](https://youtu.be/sl8zK0dv7iM?si=X9IDK0-D9X5cJLHb)
+
 ### 其他插件相关         
 * [禁止一些自己用不上插件开机自启](./tips/noAutoLauch.md)
 * [关闭openwrt的ipv6](./tips/OFFipv6.md)          
