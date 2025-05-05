@@ -3,12 +3,12 @@
 ![logo](./OpenWrt_Logo.svg)
 
 [**👉放首行这里说明什么？说明这是你必须要清楚的事情**](./Peace&Love/WhatReallyFuckingMatter.md)           
-
+**👉我们已经处在一个AI爆发前夕，编程的问题应该是AI最擅长的了，不要当只会求助大神的阿巴阿巴，善用chatGPT等工具教你解决问题！**
 
 ## DIY区
 
 ### 编译
-* [小白编译入门](./DIY/fishtool.md)           
+* [小白编译入门](./DIY/fishtool.md)（AI纪元已到，大部分编译报错、插件内核日志报错都可以复制发给chatGPT手把手教你解决！）           
 * [OpenWrt_demo](https://t.me/openwrt_demo)（伸手党开箱即用，仅支持x64架构，本博客主编译不定期更新）   
 
 ### 开发   
